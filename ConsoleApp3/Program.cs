@@ -16,8 +16,13 @@ namespace ConsoleApp3
             bird bolbol=new bird();
             dog petbol=new dog();
             petbol.sar = "3";
+            ird bolbol = new bird();
+            dog petbol = new dog();
+            petbol.sar = "3";
+            klsldghskgn
+            klsldghskgn
+            zfZV
 
-            
         }
     }
 }
